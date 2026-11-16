@@ -1,0 +1,10 @@
+{
+  "description": "Generate high-fidelity wireframes from text input to streamline design workflows and accelerate prototype creation for UX/UI professionals.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
